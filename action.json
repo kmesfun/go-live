@@ -2,9 +2,9 @@
   "name": "actionPackages",
   "deploymentStatus": {
     "state": "NEW",
-    "previewEndTime": "2017-02-21T07:32:34.050741Z"
+    "previewEndTime": "2017-12-21T07:32:34.050741Z"
   },
-  "versionLabel": "API.AI generated package for agent Sméagol",
+  "versionLabel": "API.AI generated package",
   "agentInfo": {
     "languageCode": "en-US",
     "projectId": "your-project-id",
@@ -42,151 +42,7 @@
               "queryPattern": "Go live on $go-live"
             }
           ]
-        },
-  //       {
-  //         "intent": "c953c334-1d9d-4809-9cd7-07b42642c6bd",
-  //         "queryPatterns": [
-  //           {
-  //             "queryPattern": "$single_light:single_light  my light"
-  //           },
-  //           {
-  //             "queryPattern": "$lightNumber:lightNumber  light"
-  //           },
-  //           {
-  //             "queryPattern": "$lightNumber:lightNumber"
-  //           },
-  //           {
-  //             "queryPattern": "light  $single_light:single_light"
-  //           },
-  //           {
-  //             "queryPattern": "$single_light:single_light"
-  //           },
-  //           {
-  //             "queryPattern": "$single_light:single_light  my  $lightNumber:lightNumber  light"
-  //           }
-  //         ]
-  //       },
-  //       {
-  //         "intent": "RAW_TEXT",
-  //         "queryPatterns": [
-  //           {
-  //             "queryPattern": "$SchemaOrg_Text:text"
-  //           }
-  //         ]
-  //       }
-  //     ],
-  //     "httpExecution": {
-  //       "url": "some_URL"
-  //     },
-  //     "signInRequired": false
-  //   }
-  // ],
-  // "customTypes": [
-  //   {
-  //     "name": "$single_light",
-  //     "items": [
-  //       {
-  //         "key": "on",
-  //         "synonyms": [
-  //           "on",
-  //           "turn on",
-  //           "lit up",
-  //           "switch on"
-  //         ]
-  //       },
-  //       {
-  //         "key": "off",
-  //         "synonyms": [
-  //           "off",
-  //           "turn off",
-  //           "switch off"
-  //         ]
-  //       }
-  //     ],
-  //     "isDynamicDefined": true
-  //   },
-  //   {
-  //     "name": "$lightNumber",
-  //     "items": [
-  //       {
-  //         "key": "1",
-  //         "synonyms": [
-  //           "one",
-  //           "first",
-  //           "kitchen"
-  //         ]
-  //       },
-  //       {
-  //         "key": "2",
-  //         "synonyms": [
-  //           "two",
-  //           "second",
-  //           "living room"
-  //         ]
-  //       },
-  //       {
-  //         "key": "3",
-  //         "synonyms": [
-  //           "music desk",
-  //           "third",
-  //           "three",
-  //           "3"
-  //         ]
-  //       },
-  //       {
-  //         "key": "4",
-  //         "synonyms": [
-  //           "four",
-  //           "fourth",
-  //           "bedroom",
-  //           "4"
-  //         ]
-  //       },
-  //       {
-  //         "key": "5",
-  //         "synonyms": [
-  //           "studio",
-  //           "five",
-  //           "fifth",
-  //           "5"
-  //         ]
-  //       }
-  //     ],
-  //     "isDynamicDefined": true
-  //   },
-  //   {
-  //     "name": "$multiple_lights",
-  //     "items": [
-  //       {
-  //         "key": "bed",
-  //         "synonyms": [
-  //           "sleep",
-  //           "bed"
-  //         ]
-  //       },
-  //       {
-  //         "key": "tv",
-  //         "synonyms": [
-  //           "movie",
-  //           "tv"
-  //         ]
-  //       },
-  //       {
-  //         "key": "goodnight",
-  //         "synonyms": [
-  //           "dark",
-  //           "goodnight"
-  //         ]
-  //       },
-  //       {
-  //         "key": "christmas",
-  //         "synonyms": [
-  //           "vegas",
-  //           "christmas"
-  //         ]
-  //       }
-  //     ],
-  //     "isDynamicDefined": true
-  //   }
+        }
   ]
-}
+    }
+  

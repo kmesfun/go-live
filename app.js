@@ -28,10 +28,10 @@ app.post('/', function (req, res) {
     
     // fulfill action business logic
     function responseHandler (assistant) {
-      var live = req.body.result.parameters.live-video;
+      var go_live = req.body.result.parameters.live-video;
       
       
-      switch(live){
+      switch(go_live){
         case 'go live on youtube':
             URL = "youtube.com/live"
             request.post(URL);

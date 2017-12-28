@@ -1,14 +1,14 @@
 
-var config = {};
+// var config = {};
 
-config.server = {
-  host: 'yourwebsite.something',
-  port: [port_number]
-};
+// config.server = {
+//   host: 'https://github.com/kmesfun/go-live',
+//   port: [port_number]
+// };
 
-config.auth = {
-  user: 'user',
-  password: 'pwd'
-};
+// config.auth = {
+//   user: 'user',
+//   password: 'pwd'
+// };
 
-module.exports = config;
+// module.exports = config;
