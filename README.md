@@ -1,3 +1,4 @@
+### Template used to help build this project
 # Actions on Google: Webhook Template using Node.js and Cloud Functions for Firebase
 
 This webhook template sets up everything you need to build your fulfillment
@@ -41,3 +42,5 @@ Your use of this sample is subject to, and by using or downloading the sample fi
 ## Google+
 Actions on Google Developers Community on Google+ [https://g.co/actionsdev](https://g.co/actionsdev).
 
+### How to use:
+Simply say "go live on __" either facebook or youtube,
